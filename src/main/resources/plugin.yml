@@ -1,0 +1,6 @@
+name: TestGitHub4
+version: 0.0.1
+description: マイクラプラグインのテスト
+author: A_GOTO
+website: www.gocchan.com
+main: com.gocchan.testgithub4.TestGitHub4
